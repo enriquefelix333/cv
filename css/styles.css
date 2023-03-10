@@ -12,10 +12,17 @@ color:#603601;
 
 hr {
     border-style:none;
+    background-color:#EEE3CB;
     border-top-style:dotted;
-    border-color:#FFCE45;
+    border-top-color:#FFCE45;
     border-width: 5px;
     height: 0px;
     width: 65%;
     }
 
+img{background-color: #EEE3CB;
+}
+
+
+.profile:hover{background-color:gold;
+}
